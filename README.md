@@ -1,6 +1,6 @@
 # multithreaded-dev
 
-This repository contains some exercises about multithreading,locking and file descriptor in UNIX-based OS.<br>
+This repository contains some exercises about multithreading,locking and file descriptor in UNIX-like OS.<br>
 
 All code contained in this repo was written and tested on MacBook Pro 2015 A1502<br>
 
